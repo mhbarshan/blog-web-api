@@ -1,8 +1,8 @@
 import mysql from "mysql";
 
 export const db = mysql.createConnection({
-  host: "localhost",
-  user: "root",
-  password: "",
-  database: "blogweb",
+  host: "bit2tvxihrskqlaekztm-mysql.services.clever-cloud.com",
+  user: "unxqou7bj9ncqdcw",
+  password: "nc9WaYLvV0KKv2FoAubC",
+  database: "bit2tvxihrskqlaekztm",
 });
